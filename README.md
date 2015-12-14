@@ -1,8 +1,6 @@
 # lumen_rest_api
 just learning some lumen with http://learninglaravel.net/restful-api-in-lumen-a-laravel-micro-framework/link
 
-
-
 -## Lumen PHP Framework
 -
 -[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -24,3 +22,6 @@ just learning some lumen with http://learninglaravel.net/restful-api-in-lumen-a-
 -### License
 -
 -The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+=======
+-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+>>>>>>> bc802f8c87dda9f3d86dd823c07d27d42b3795ac
